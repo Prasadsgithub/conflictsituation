@@ -1,1 +1,4 @@
 instructions for devlopers
+
+instructions for installing the applications
+
